@@ -1,0 +1,2 @@
+# ecomfast
+EcomFast! Wordpress template
