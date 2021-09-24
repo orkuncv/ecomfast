@@ -1,2 +1,2 @@
-# ecomfast
+# EcomFast!
 EcomFast! Wordpress template
